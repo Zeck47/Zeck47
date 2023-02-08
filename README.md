@@ -22,4 +22,4 @@ _Linguagens que uso_:
 </div><br/>
 
 
-[![Zeck47](https://github-readme-stats.vercel.app/api/top-langs/?username=Zeck47&theme=blue-green)]
+![Zeck47](https://github-readme-stats.vercel.app/api/top-langs/?username=Zeck47&theme=blue-green)
