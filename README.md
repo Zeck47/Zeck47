@@ -1,5 +1,6 @@
 ## Hello, My name is Zeck
-
+**I'm 17 years old, and I'm a Computing enthusiast, 
+a 2/3 Computer Science student and a member of the Computer Network area.**
 
 <div style="display: inline_block">
   <img align="center" alt="linux" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
