@@ -9,5 +9,5 @@ a 2/3 Computer Science student and a member of the Computer Network area.**
 </div><br/>
 
 
-![Zeck47](https://github-readme-stats.vercel.app/api/top-langs/?username=Zeck47&theme=blue-green)
+![Zeck47](https://github-readme-stats.vercel.app/api?username=Zeck47&theme=black-green)
 
